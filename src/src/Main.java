@@ -10,6 +10,7 @@ public class Main {
 
         while (rodar) {
             System.out.println("""
+                    
                     Escolha sua opção:
                     [1]- Adicionar tarefa
                     [2]- Mostrar tarefa
